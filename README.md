@@ -1,0 +1,7 @@
+- 👋  Hi, I’m @goodgravy
+- 👀  I’m interested in social commerce, artificial intelligence, and mountain biking
+- 🌱  I’m currently learning about machine learning interpretability and [AGI safety](https://www.eacambridge.org/agi-safety-fundamentals)
+- 📫  How to find me: 
+  - :bulb:  [Blag](https://jmsbrdy.com/)
+  - :office:  [LinkedIn](https://www.linkedin.com/in/goodgravy/)
+  - :speaker:  [Podcast](https://moderncto.io/220-james-brady-vp-of-technology-at-teespring/)
