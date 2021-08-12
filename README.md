@@ -1,7 +1,14 @@
-- 👋  Hi, I’m @goodgravy
-- 👀  I’m interested in social commerce, artificial intelligence, and mountain biking
-- 🌱  I’m currently learning about machine learning interpretability and [AGI safety](https://www.eacambridge.org/agi-safety-fundamentals)
-- 📫  How to find me: 
-  - :bulb:  [Blag](https://jmsbrdy.com/)
-  - :office:  [LinkedIn](https://www.linkedin.com/in/goodgravy/)
-  - :speaker:  [Podcast](https://moderncto.io/220-james-brady-vp-of-technology-at-teespring/)
+# Hello! I'm James 👋
+Currently, I lead technology at [Spring](https://www.spri.ng/) where we're defining and pushing forward the "creator commerce" space.
+
+I’m interested in e-commerce, alternative monetisation mechanisms, artificial intelligence, … and mountain biking.
+
+### Learning about
+- Safety concerns around artificial intelligence (via the [Cambridge AGI safety course](https://www.eacambridge.org/agi-safety-fundamentals))
+- Machine learning interpretability (via [Eleuther's Interpretability reading group](https://www.eleuther.ai/), this [NeurIPS workshop](https://explainml-tutorial.github.io/neurips20), and reading [this book](https://christophm.github.io/interpretable-ml-book/))
+- Large language models
+
+### See also
+- [Blag](https://jmsbrdy.com/)
+- [LinkedIn](https://www.linkedin.com/in/goodgravy/)
+- [Podcast](https://moderncto.io/220-james-brady-vp-of-technology-at-teespring/)
