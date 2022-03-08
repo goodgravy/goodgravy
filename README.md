@@ -1,7 +1,7 @@
 # Hello! I'm James 👋
-Currently, I lead technology at [Spring](https://www.spri.ng/) where we're defining and pushing forward the "creator commerce" space.
+Currently, I lead the engineering team at [Ought](https://ought.org/) – our primary project is [Elicit](https://elicit.org/), an AI-powered research assistant.
 
-I’m interested in e-commerce, alternative monetisation mechanisms, artificial intelligence, … and mountain biking.
+I'm interested in artificial intelligence, machine learning, language models, AI safety & alignment, functional programming, typed languages, … and mountain biking.
 
 ### Learning about
 - Safety concerns around artificial intelligence (via the [Cambridge AGI safety course](https://www.eacambridge.org/agi-safety-fundamentals))
